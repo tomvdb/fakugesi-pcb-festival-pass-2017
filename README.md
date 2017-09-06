@@ -2,9 +2,9 @@
 
 Design files for fakugesi pcb festival pass 2017
 
-![badgesvg](images/badgesvg.png?raw=true "Badge"
+![badgesvg](images/badgesvg.png?raw=true "Badge")
 
-![badgeirl](images/irl.jpg?raw=true "Badge IRL"
+![badgeirl](images/irl.jpg?raw=true "Badge IRL")
 
 # Make your own firmware
 
